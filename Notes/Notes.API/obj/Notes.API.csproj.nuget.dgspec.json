@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# Kazim Hussaini\\Notes\\Notes.API\\Notes.API.csproj": {}
+    "D:\\C# Kazim Hussaini\\Note-Store\\Notes\\Notes.API\\Notes.API.csproj": {}
   },
   "projects": {
-    "D:\\C# Kazim Hussaini\\Notes\\Notes.API\\Notes.API.csproj": {
+    "D:\\C# Kazim Hussaini\\Note-Store\\Notes\\Notes.API\\Notes.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Kazim Hussaini\\Notes\\Notes.API\\Notes.API.csproj",
+        "projectUniqueName": "D:\\C# Kazim Hussaini\\Note-Store\\Notes\\Notes.API\\Notes.API.csproj",
         "projectName": "Notes.API",
-        "projectPath": "D:\\C# Kazim Hussaini\\Notes\\Notes.API\\Notes.API.csproj",
+        "projectPath": "D:\\C# Kazim Hussaini\\Note-Store\\Notes\\Notes.API\\Notes.API.csproj",
         "packagesPath": "C:\\Users\\Muslim Hassan\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Kazim Hussaini\\Notes\\Notes.API\\obj\\",
+        "outputPath": "D:\\C# Kazim Hussaini\\Note-Store\\Notes\\Notes.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Muslim Hassan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,16 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
