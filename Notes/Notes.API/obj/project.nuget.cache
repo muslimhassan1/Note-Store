@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2+9yuCFxKzCiG3zflWQS3lQ5aoazVqz9sOdFw+bVTy3waIcY88BBjFYwRAbJARCh1zVSQCsrFVsLcETkGlrYhw==",
+  "dgSpecHash": "n/E/6nWiEuycxr/ja7t5+ncFsC77MOnhObe+jrRwJTt6IG+LplEicHqZtRDq/SdI+x6aa4kYTknuAgQFNsbosg==",
   "success": true,
   "projectFilePath": "D:\\C# Kazim Hussaini\\Note-Store\\Notes\\Notes.API\\Notes.API.csproj",
   "expectedPackageFiles": [
@@ -35,10 +35,10 @@
     "C:\\Users\\Muslim Hassan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Muslim Hassan\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Muslim Hassan\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
-    "C:\\Users\\Muslim Hassan\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "C:\\Users\\Muslim Hassan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "C:\\Users\\Muslim Hassan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\Muslim Hassan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\Muslim Hassan\\.nuget\\packages\\swashbuckle.aspnetcore\\6.0.5\\swashbuckle.aspnetcore.6.0.5.nupkg.sha512",
+    "C:\\Users\\Muslim Hassan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.0.5\\swashbuckle.aspnetcore.swagger.6.0.5.nupkg.sha512",
+    "C:\\Users\\Muslim Hassan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.0.5\\swashbuckle.aspnetcore.swaggergen.6.0.5.nupkg.sha512",
+    "C:\\Users\\Muslim Hassan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.0.5\\swashbuckle.aspnetcore.swaggerui.6.0.5.nupkg.sha512",
     "C:\\Users\\Muslim Hassan\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\Muslim Hassan\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
     "C:\\Users\\Muslim Hassan\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",

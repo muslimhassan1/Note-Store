@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Notes",
-    "\\Notes\\Notes.API"
+    "\\Notes\\Notes.API",
+    "\\Notes\\Notes.API\\Controllers"
   ],
-  "SelectedNode": "\\Notes\\Notes.sln",
+  "SelectedNode": "\\Notes\\Notes.API\\Controllers\\NotesController.cs",
   "PreviewInSolutionExplorer": false
 }

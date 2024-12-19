@@ -9,6 +9,6 @@ namespace Notes.API.Data
         {
         }
 
-        public DbSet<Note> MyProperty { get; set; }
+        public DbSet<Note> Notes { get; set; }
     }
 }
